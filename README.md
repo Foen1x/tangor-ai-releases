@@ -8,4 +8,4 @@ Fully local, always recallable, offline search available — your secrets stay y
 
 This an official release base on Github.
 
-![](github-release-repo-logo.jpg) 
+![](cover-en.jpg) 
