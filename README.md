@@ -2,8 +2,10 @@
 
 [Tangor AI](https://tangor-ai.app) is an all-in-one AI chat browser that can help you to remember your chat history.
 
-This an official release base on Github.
+Tangor is an AI chat memory assistant. Powered by the system's native browser engine, it supports direct access to mainstream AI chat websites. Chat logs are automatically stored locally with millisecond-level search performance.
 
-[Tangor AI Official Site](https://tangor-ai.app)
+Fully local, always recallable, offline search available — your secrets stay yours.
+
+This an official release base on Github.
 
 ![](github-release-repo-logo.jpg) 
