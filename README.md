@@ -1,7 +1,9 @@
 # Tangor AI official releases
 
-Tangor AI is an all-in-one AI chat browser that can help you to remember your chat history.
+[Tangor AI](https://tangor-ai.app){:target="_blank"} is an all-in-one AI chat browser that can help you to remember your chat history.
 
 This an official release base on Github.
+
+[Tangor AI Official Site](https://tangor-ai.app){:target="_blank"}
 
 ![](github-release-repo-logo.jpg) 
